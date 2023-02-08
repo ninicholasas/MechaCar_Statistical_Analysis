@@ -18,7 +18,17 @@ I performed Linear Regression, Summary Statistics and T-Testing.
 
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
   * With a R-squared of 0.7149 we could say that this linear model is effictive at predicting mpg.
+---
+### Summary Statistics on Suspension Coils
+Total Summary
 
+<img width="335" alt="total_summary" src="https://user-images.githubusercontent.com/110373282/217463428-7380fed1-0740-408c-90a0-28b618b31168.png">
 
+Lot Summary
+
+<img width="492" alt="lot_summary" src="https://user-images.githubusercontent.com/110373282/217463450-9da21775-3eec-44d5-9fce-788685f11c50.png">
+
+* The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+ * If
 ## Summary
 
