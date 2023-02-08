@@ -8,6 +8,8 @@ I performed Linear Regression, Summary Statistics and T-Testing.
 ## Results
 ### Linear Regression to Predict MPG
 
+<img width="407" alt="Coefficients" src="https://user-images.githubusercontent.com/110373282/217460738-7b6089c0-0b3d-4a1f-bce3-8ed123870d53.png">
+
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
 * Is the slope of the linear model considered to be zero? Why or why not?
